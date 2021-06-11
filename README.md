@@ -10,3 +10,8 @@
 **UC2-FindMaximumFloats**
 
 **_Description_** : Given 3 Floats find the maximum
+
+**UC3-FindMaximumString**
+
+**_Description_** : Given 3 Strings find the maximum
+- E.g. Apple Peach Banana

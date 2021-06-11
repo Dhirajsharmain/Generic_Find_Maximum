@@ -30,5 +30,6 @@ public class GenericsFindMax <T extends Comparable<T>> {
         GenericsFindMax genericsFindMax = new GenericsFindMax();
         genericsFindMax.findMaximum(6,7,5);
         genericsFindMax.findMaximum(6.5,7.8,5.9);
+        genericsFindMax.findMaximum("apple", "peach", "banana");
     }
 }
