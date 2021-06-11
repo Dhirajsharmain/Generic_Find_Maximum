@@ -15,3 +15,8 @@
 
 **_Description_** : Given 3 Strings find the maximum
 - E.g. Apple Peach Banana
+
+**UC4-MoreThanThreeParameter**
+
+**_Description_** : Extend the max method to take more then three parameters 
+- Use Options and use Sorting
